@@ -1,7 +1,7 @@
 flask
 jinja2
 werkzeug
-sanction
+requests-oauthlib
 flask-appconfig
 flask-wtf
 flask-bootstrap
